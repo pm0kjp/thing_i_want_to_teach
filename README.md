@@ -1,2 +1,2 @@
-# thing_i_want_to_teach
+# Thing I Want To Teach
 There's this thing I want to teach
